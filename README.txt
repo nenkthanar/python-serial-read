@@ -1,7 +1,7 @@
 Create by Thanarnop Robkwaen
 ### First step
   1 Use arduino IDE for ubload arduino-serial.ino in folder name arduino-serial(use arduino mega or uno or any kind of arduino )
-  2
+  
 ### Python libraries requirement ,pip command below
   1 pip install pyserial 
 
