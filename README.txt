@@ -1,4 +1,7 @@
-Create by Thanarnop Robkwaen
+******Create by Thanarnop Robkwaen******
+
+This python application for Read and write serial data through USB to Serial or else
+
 ### First step
   1 Use arduino IDE for ubload arduino-serial.ino in folder name arduino-serial(use arduino mega or uno or any kind of arduino )
   
